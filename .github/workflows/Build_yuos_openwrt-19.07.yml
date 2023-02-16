@@ -73,7 +73,7 @@ on:
   #   types: [started]                  # 点击 star 之后
   
 env:
-  REPO_URL: https://github.com/resxx/openwrt-19.07
+  REPO_URL: https://github.com/restxx/openwrt-19.07
   REPO_BRANCH: xiaomi
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: config/Yuos_${{ github.event.inputs.model }}.config
